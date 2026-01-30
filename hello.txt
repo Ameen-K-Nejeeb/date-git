@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 s
 hello world 
 
+=======
+>>>>>>> feature
 hello iam editing the hello.txt file , 
+asdfas
+dfa
+sdfa
+sdf
+ads
+
+this is recursive merge from feature
