@@ -1,0 +1,11 @@
+git init
+
+git add
+
+git commit -m ""
+
+git log
+
+git log --all
+
+git status
