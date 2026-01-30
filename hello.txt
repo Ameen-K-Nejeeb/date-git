@@ -14,4 +14,8 @@ ads
 this is recursive merge from feature
 
 
+<<<<<<< HEAD
 master how are you
+=======
+feature how are you 
+>>>>>>> feature
