@@ -60,3 +60,5 @@ git stash,Temporarily shelves (hides) changes so you can work on something else.
 
 5.Submit: git push origin feature
 
+
+-> Gist = gist.github.com
