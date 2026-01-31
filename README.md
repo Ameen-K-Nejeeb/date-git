@@ -4,19 +4,19 @@ A comprehensive cheat sheet for managing local repositories and collaborating on
 🛠 Basic Workflow
 The core commands to initialize and track your progress.
 
-git init — Initialize a new local Git repository.
+1. git init — Initialize a new local Git repository.
 
-git add <file> — Stage a specific file.
+2. git add <file> — Stage a specific file.
 
-git add . or git add --all — Stage all changes in the directory.
+3. git add . or git add --all — Stage all changes in the directory.
 
-git commit -m "message" — Snapshot your changes with a descriptive message.
+4. git commit -m "message" — Snapshot your changes with a descriptive message.
 
-git status — View the state of your working directory and staging area.
+5. git status — View the state of your working directory and staging area.
 
-git log — View the commit history for the current branch.
+6. git log — View the commit history for the current branch.
 
-git log --all — View history for all branches.
+7.git log --all — View history for all branches.
 
 🔒 Security Note: Git uses Checksums (SHA-1 hashes) to ensure data integrity. This prevents hackers or errors from altering your content, logs, or commits without detection.
 
