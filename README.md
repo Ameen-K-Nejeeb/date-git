@@ -62,12 +62,13 @@ git stash,Temporarily shelves (hides) changes so you can work on something else.
 
 
 -> Gist = gist.github.com
+
 => Tool,Role,What it does for you 
 
-  1.Git     = The History,Records every change you make on your laptop.
+   1.Git     = The History,Records every change you make on your laptop.
   
-  2.Gist    = The Note,"Stores that one ""perfect"" SQL query you want to reuse."
+   2.Gist    = The Note,"Stores that one ""perfect"" SQL query you want to reuse."
   
-  3.GitHub  = The Cloud,Keeps your code safe and allows others to see it.
+   3.GitHub  = The Cloud,Keeps your code safe and allows others to see it.
   
-  4.Actions = The Robot,Automatically moves your code from GitHub to AWS.
+   4.Actions = The Robot,Automatically moves your code from GitHub to AWS.
