@@ -1,0 +1,45 @@
+git init
+
+git add / git add --all
+
+git commit -m ""
+
+git log
+
+git log --all
+
+git status
+
+git checkout
+
+checksome = avoid hacker's( content , log, commit etc )
+
+----
+
+git branch __name__
+
+git checkout __name__ = we can go to feature branch to checkout data
+
+git merge __name__  ( fast forward Merge/ recursive merge /conflict )
+
+git diff  = showing new content( comparing )
+
+git stash  = deleting last content  
+
+---------- GIT REMOTE -------------
+
+git remote add hub ''link''
+
+git push 'orgins' master   = github or gitlap we can use
+
+git remote       = how many remote
+
+git remote -v    = shows which link data transfers
+
+
+==open source work chyyumboll push 
+
+fetch + merge = pull => git pull 'orgin'
+git merge master
+git commit -m 'master merged to feature'
+git push orgin feature
