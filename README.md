@@ -53,10 +53,11 @@ git stash,Temporarily shelves (hides) changes so you can work on something else.
 1. When working on open-source projects, use this workflow to stay updated:
 
 2. Pull Updates: git pull origin (This is essentially fetch + merge).
+3. 
 
-3. Stay Current: git merge master (Bring master changes into your feature branch).
+4. Stay Current: git merge master (Bring master changes into your feature branch).
 
-4. Finalize: git commit -m "master merged to feature"
+5. Finalize: git commit -m "master merged to feature"
 
 5.Submit: git push origin feature
 
